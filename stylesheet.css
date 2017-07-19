@@ -1,0 +1,59 @@
+/* Document information - Author: Erma Pecoraro */
+
+body {
+    
+    width: 1000 px;
+    height: 900 px;
+    background-image: url("fractal.jpg");
+    
+}
+
+ul {
+    list-style: none;
+    
+    
+    
+}
+
+.nav a {
+    color: #FFFFFF;
+}
+
+
+.nav {
+    width: 210px;
+    height: 200px;
+    background-color: #8C84A5;
+    font-family: sans-serif;
+    line-height: 40px;
+    margin-left: -30px;
+   
+    
+    
+}
+
+p {
+    margin-top: 30px;
+    text-align: center;
+    font-family: cursive, sans-serif;
+    font-size: 25px;
+    font-weight: 16px;
+    font-style: italic, bold;
+    color: #FFFFFF;
+    
+}
+/*Quote area*/
+.quote {
+    width: 500px;
+    height: 500px;
+    font-family: sans-serif;
+    margin-left: 550px;
+    color: #FFFFFF;
+    font-style: italic;
+    margin-top: 200px;
+}
+
+
+
+
+/*wake the machine. code for involution.*/
