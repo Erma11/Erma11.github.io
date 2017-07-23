@@ -2,8 +2,8 @@
 
 body {
     
-    width: 1000 px;
-    height: 900 px;
+    width: 1400px;
+    height: 900px;
     background-image: url("fractal.jpg");
     
 }
@@ -21,11 +21,11 @@ ul {
 
 
 .nav {
-    width: 210px;
+    width: 200px;
     height: 200px;
     background-color: #8C84A5;
     font-family: sans-serif;
-    line-height: 40px;
+    line-height: 50px;
     margin-left: -30px;
    
     
@@ -36,8 +36,8 @@ p {
     margin-top: 30px;
     text-align: center;
     font-family: cursive, sans-serif;
-    font-size: 25px;
-    font-weight: 16px;
+    font-size: 40px;
+    font-weight: 25px;
     font-style: italic, bold;
     color: #FFFFFF;
     
@@ -46,11 +46,20 @@ p {
 .quote {
     width: 500px;
     height: 500px;
-    font-family: sans-serif;
-    margin-left: 550px;
+    font-family: Bellefair, sans-serif;
+    font-stretch: italic;
+    font-size: 20px;
+    margin-left: 500px;
     color: #FFFFFF;
     font-style: italic;
     margin-top: 200px;
+}
+
+img {
+    width: 25%;
+    margin-bottom: 10px;
+    float: right;
+    margin: 0 0 10px 10px;
 }
 
 
