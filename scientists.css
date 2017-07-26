@@ -1,7 +1,7 @@
 body {
 
-width: 1400px;
-height: 1000px;
+width: 1450px;
+height: 700px;
 background-color: #CACAD1;
 
 }
@@ -19,7 +19,7 @@ ul {
     background-color: #8C84A5;
     font-family: sans-serif;
     line-height: 50px;
-    margin-left: -30px;
+    margin-left: 5px;
     float: left;
 }
 
@@ -30,17 +30,23 @@ ul {
 
 .container {
     width:400px;
-    height: 300px;
+    height: 325px;
+    padding-right: 10px;
+    font-family: Bellefair, Roboto, Open Sans;
     background-color: #A1B1E5;
     display: inline-flex;
     flex-direction: row;
     border: 2px solid black;
     float: right;
+   
     
     }
 .para {
     clear: both;
     padding-left: 10px;
+    font-family: Bellefair, Roboto, Open Sans;
+    font-size: 18px;
+
     
 }
 
@@ -50,9 +56,11 @@ h3 {
 }
 
 img {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 161px;
     margin-top: 20px;
+    margin-left: 5px;
+   
     
     
 }

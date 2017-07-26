@@ -2,7 +2,7 @@
 
 body {
     
-    width: 1400px;
+    margin: 0;
     height: 900px;
     background-image: url("fractal.jpg");
     
@@ -35,7 +35,7 @@ ul {
 p {
     margin-top: 30px;
     text-align: center;
-    font-family: cursive, sans-serif;
+    font-family: Bellefair, Roboto, open sans-serif;
     font-size: 40px;
     font-weight: 25px;
     font-style: italic, bold;
@@ -65,4 +65,7 @@ img {
 
 
 
-/*wake the machine. code for involution.*/
+
+
+/*my signature code quote:
+wake the machine.....code for involution*/

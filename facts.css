@@ -1,6 +1,6 @@
 body {
     width: 1400px;
-    height: 1000px;
+    height: 700px;
     background-color: #CACAD1;
  
     
@@ -9,11 +9,10 @@ body {
 
 .nav {
     width: 200px;
-    height: 300px;
+    height: 400px;
     background-color: #8C84A5;
-    font-family: sans-serif;
     line-height: 50px;
-    margin-left: -30px;
+    margin-left: 5px;
     float: left;
 }
 
@@ -22,19 +21,24 @@ body {
     background-color: #E9F4FF;
     text-decoration: none;
 }
+/*All facts are the same size*/
 
 .universe {
     width: 300px;
     height: 100px;
+    margin-top: 10px;
     display: inline-flex;
+    float: right;
     background-color: #A1B1E5;
     border: 2px solid blue;
     border-radius: 125px;
-    margin-left: 60px;
+    margin-left: 20px;
+    margin-right: 10px;
     padding-left: 30px;
     padding-right: 10px;
-    margin-bottom: 20px;
-    font-family: Zilla Slab, open sans;
+    margin-bottom: 80px;
+    font-family: Bellefair, Roboto, Open Sans;
+    font-size: 16px;
    
    
    
@@ -50,6 +54,8 @@ ul {
 img {
     width: 150px;
     height: 150px;
+    margin-top: 50px;
+    margin-left: 5px;
    
   
 }
